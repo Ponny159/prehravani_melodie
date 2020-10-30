@@ -1,0 +1,10 @@
+C:\Users\Tomas\source\repos\Přehrávání melodie\Přehrávání melodie\bin\Debug\Přehrávání melodie.exe.config
+C:\Users\Tomas\source\repos\Přehrávání melodie\Přehrávání melodie\bin\Debug\Přehrávání melodie.exe
+C:\Users\Tomas\source\repos\Přehrávání melodie\Přehrávání melodie\bin\Debug\Přehrávání melodie.pdb
+C:\Users\Tomas\source\repos\Přehrávání melodie\Přehrávání melodie\obj\Debug\Přehrávání melodie.csprojAssemblyReference.cache
+C:\Users\Tomas\source\repos\Přehrávání melodie\Přehrávání melodie\obj\Debug\Přehrávání_melodie.Form1.resources
+C:\Users\Tomas\source\repos\Přehrávání melodie\Přehrávání melodie\obj\Debug\Přehrávání_melodie.Properties.Resources.resources
+C:\Users\Tomas\source\repos\Přehrávání melodie\Přehrávání melodie\obj\Debug\Přehrávání melodie.csproj.GenerateResource.cache
+C:\Users\Tomas\source\repos\Přehrávání melodie\Přehrávání melodie\obj\Debug\Přehrávání melodie.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\source\repos\Přehrávání melodie\Přehrávání melodie\obj\Debug\Přehrávání melodie.exe
+C:\Users\Tomas\source\repos\Přehrávání melodie\Přehrávání melodie\obj\Debug\Přehrávání melodie.pdb
